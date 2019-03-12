@@ -1,3 +1,7 @@
+header.cart {
+	color: gray;
+}
+
 .goods-list {
     display: flex;
     flex-wrap: wrap;
